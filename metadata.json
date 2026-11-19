@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix SAAT Computerized Practice Platform",
+  "description": "Bilingual (English/Arabic) Qiyas-style computerized practice exam platform for SAAT Physics preparation with 11 chapters, 60-second per-question timers, question flagging, and instant explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
